@@ -1,7 +1,17 @@
-.remot# Firebase Studio
+# Number Converter Application
+A Next.js web application that converts numbers between different formats (binary, decimal, hexadecimal).
 
-This is a NextJS starter in Firebase Studio.
+## Technology Stack
+- Next.js 13+
+- React
+- Node.js 18+
 
-To get started, take a look at src/app/page.tsx.
+## Local Development
+### Prerequisites
+- Node.js 18 or higher
+- npm or yarn
 
-FInd the solution of Lab9 
+### Installation
+```bash
+# Install dependencies
+npm install
